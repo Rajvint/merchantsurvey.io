@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.contain1{
+    background-image: url('logo1.jpg');
+    background-position: center center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 110vh;
+    max-width: 100%;
+}
+.box2{
+    background-color:rgb(230, 244, 254);
+}
+.box2 p{
+    font-size:22px;
+}
+.box3 p{
+    font-size:22px;
+}
+.box4{
+    background-color:rgb(230, 244, 254);
+}
+.box4 p{
+    font-size:22px;
+}
+.box5 p{
+    font-size:22px;
+}
+.box6{
+    background-color:rgb(230, 244, 254);
+}
+.box6 p{
+    font-size:22px;
+}
+.box7 p{
+    font-size:22px;
+}
+.box8{
+    background-color:rgb(230, 244, 254);
+}
+.box8 p{
+    font-size:22px;
+}
+.box9 p{
+    font-size:22px;
+}
+.box10{
+    background-color:rgb(230, 244, 254);
+}
+.box10 p{
+    font-size:22px;
+}
+.box11 p{
+    font-size:22px;
+}
+.box12{
+    background-color:rgb(230, 244, 254);
+}
+.box12 p{
+    font-size:25px;
+}
+.fa {
+    padding: 20px;
+    border-radius: 100% 100%;
+    font-size:30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #f0f1f3;
+    color: blue;
+  }
+  
+  .fa-twitter {
+    background:white;
+    color:blue;
+  }
+  
+  .fa-linkedin {
+    background: white;
+    color: blue;
+  }
+  
+  .fa-instagram {
+    background: white;
+    color: blue;
+  }
+  .right p{
+      color: white;
+  }
+  hr{
+    height: 2px;
+    background-color: black;
+    border: none;
+    width:auto;
+}
+.fa-laptop {
+    background: white;
+    color: black;
+    width: 65px;
+  }
